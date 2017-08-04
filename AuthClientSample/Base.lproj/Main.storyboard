@@ -64,7 +64,7 @@
                                 </subviews>
                             </stackView>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.91454511880874634" green="0.95496898889541626" blue="0.84056752920150757" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="8Y5-NI-ZrF" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="4fr-9k-9g0"/>
                             <constraint firstAttribute="trailingMargin" secondItem="8Y5-NI-ZrF" secondAttribute="trailing" constant="40" id="gfW-rY-vdV"/>
@@ -93,7 +93,7 @@
                     <view key="view" contentMode="scaleToFill" id="FfS-GH-0eV">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.96124309301376343" green="0.95738810300827026" blue="0.85683655738830566" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JJK-55-yy6" userLabel="First Responder" sceneMemberID="firstResponder"/>
